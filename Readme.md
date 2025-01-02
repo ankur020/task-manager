@@ -6,7 +6,7 @@ To run this project, you will need to add the following environment variables to
 
 ```bash
     PORT = 8080
-    CORS_ORIGIN = *
+    CORS_ORIGIN =*
     MONGO_URI = 
 ```
 
@@ -30,4 +30,13 @@ Start the server
 
 ```bash
   npm start
+```
+
+
+## API Reference
+
+Find out related api endpoints on the given link.
+
+```bash
+  https://documenter.getpostman.com/view/31700474/2sAYJ7gexx
 ```
